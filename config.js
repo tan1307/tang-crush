@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Yên à!',
-    introDesc: `Hôm nay học nhiều
-    có mệt lắm không.
-    Cố lên nhé
-     Hết 5h là xong ngay thôi`,
-    btnIntro: 'hihi',
-    title: 'Có cần Minh Tân giúp dì không  😙',
-    desc: 'Cần thì dì thì nói nhé ',
-    btnYes: 'Cần lắm chứ  <33',
-    btnNo: 'Không cần :3',
-    question:'Cần gì thì nói ra đi nè <3',
-    btnReply: 'Gửi cho Tân <3',
-    reply: 'Làm một bờ vai để tựa vào <33333333',
-    mess: 'Tân biết mà 🥰.  �😘',
-    messDesc: 'Hết dịch đi ăn dì ngon ngon nha VŨ YÊN.',
-    btnAccept: 'Okiiiii lun <3',
+    introTitle: 'PHÁT CHUỘT À!',
+    introDesc: `Cái lóp top của mày,
+    cùi bắp vcl.
+    bỏ đổi máy mới đi
+     15tr thôi là máy chơi game mượt rồi`,
+    btnIntro: 'con cặc',
+    title: 'Tao sữa xong thì nó cũng chậm thôi  😙',
+    desc: 'clm ',
+    btnYes: 'dcm  <33',
+    btnNo: 'giữ lại máy :3',
+    question:'Mua máy nào giờ <3',
+    btnReply: 'Gửi anh Tân <3',
+    reply: 'mua laptop gaming chiến ngon <33333333',
+    mess: 'Đmm phải thế chứ 🥰.  �😘',
+    messDesc: 'Có tiền mua đi con dỉ mẹ.',
+    btnAccept: 'Đjt mẹ mày <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
